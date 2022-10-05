@@ -1,4 +1,4 @@
-# Captcha Reader Model
+# Captcha Reader 
 
 A simple model for reading captcha images
 
