@@ -1,4 +1,4 @@
-# OCR Model For Reading Captcha
+# A Model For Reading Captcha
 
 A simple model for reading captcha images
 
